@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Maven: org.codehaus.plexus:plexus-container-default:1.0-alpha-9-stable-1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.jar!/" />
+    </CLASSES>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Maven: org.awaitility:awaitility:3.0.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/awaitility/awaitility/3.0.0/awaitility-3.0.0.jar!/" />
+    </CLASSES>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/awaitility/awaitility/3.0.0/awaitility-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

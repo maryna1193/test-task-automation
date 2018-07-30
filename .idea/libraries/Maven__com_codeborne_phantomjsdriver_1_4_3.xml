@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Maven: com.codeborne:phantomjsdriver:1.4.3">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/codeborne/phantomjsdriver/1.4.3/phantomjsdriver-1.4.3.jar!/" />
+    </CLASSES>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/codeborne/phantomjsdriver/1.4.3/phantomjsdriver-1.4.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
